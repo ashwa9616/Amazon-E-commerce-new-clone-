@@ -1,1 +1,2 @@
-# Amazon-E-commerce-new-clone-
+# amazon-clone
+amazon clone
